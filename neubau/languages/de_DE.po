@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Neubau v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Sat Apr 23 2016 22:53:56 GMT+1200 (NZST)\n"
+"Last-Translator: Ellen Bauer <ellen.bauer@elmastudio.de>\n"
+"Language-Team: \n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-Basepath: ."
+
+#: ../archive.php:47 ../index.php:27 ../search.php:52
+msgid "Older"
+msgstr "Ältere"
+
+#: ../archive.php:49 ../index.php:29 ../search.php:54
+msgid "Newer"
+msgstr "Neuere"
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:82
+msgctxt "Work Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:87
+msgctxt "Amiri font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:344
+msgid "Posts Sidebar"
+msgstr "Artikel Sidebar"
+
+#: ../searchform.php:13
+msgctxt "placeholder"
+msgid " "
+msgstr ""
+
+#: ../inc/customizer.php:53
+msgid "Title Hover and Mobile Menu Color"
+msgstr "Titel-Hover und Menü Farbe (mobile)"
+
+#: ../inc/customizer.php:65
+msgid "Footer Background Color"
+msgstr "Footer Hintergrundfarbe"
+
+#: ../template-parts/content-page.php:34
+msgid "Edit Page"
+msgstr "Seite bearbeiten"
+
+#. Description of the theme
+msgid ""
+"neubau is a modern, minimal, responsive portfolio/business theme by "
+"Elmastudio. neubau offers a with a custom front page, a fullscreen slider "
+"option, a team, services, portfolio and testimonials page template and many "
+"more features."
+msgstr ""
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Dieser Seite konnte nicht gefunden werden."
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try another search "
+"term?"
+msgstr ""
+"Leider konnte nichts gefunden werden. Versuche es doch mit einem anderen "
+"Suchbegriff?"
+
+#: ../archive.php:48 ../index.php:28 ../search.php:53
+msgid "Older Posts"
+msgstr "Ältere Beiträge"
+
+#: ../archive.php:50 ../index.php:30 ../search.php:55
+msgid "Newer Posts"
+msgstr "Neuere Beiträge"
+
+#: ../archive.php:51 ../index.php:31 ../search.php:56
+msgid "Page"
+msgstr "Seite"
+
+#: ../author-bio.php:19
+msgid "by"
+msgstr "von"
+
+#: ../comments.php:25
+#, php-format
+msgid "Comment (1)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] "Kommentar (1)"
+msgstr[1] "Kommentare (%1$s)"
+
+#: ../comments.php:38
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: ../comments.php:39
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: ../comments.php:47
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: ../comments.php:55 ../comments.php:55
+msgid "Name"
+msgstr "Name"
+
+#: ../comments.php:56 ../comments.php:56
+msgid "Email"
+msgstr "Email"
+
+#: ../comments.php:57 ../comments.php:57
+msgid "Website"
+msgstr "Webseite"
+
+#: ../content.php:29 ../single.php:26
+#, php-format
+msgid "by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr "von <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+#: ../content.php:31 ../single.php:28
+#, php-format
+msgid "All posts by %s"
+msgstr "Alle Beiträge von %s"
+
+#: ../content.php:35 ../image.php:31 ../single.php:37
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../footer.php:21
+msgid "Powered by"
+msgstr "Powered by"
+
+#: ../footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: ../footer.php:21
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../footer.php:22
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr "Theme: %1$s von %2$s"
+
+#: ../functions.php:47
+msgid "Primary menu"
+msgstr "Hauptmenü"
+
+#: ../functions.php:134
+msgid "expand child menu"
+msgstr "Child Menü aufklappen"
+
+#: ../functions.php:135
+msgid "collapse child menu"
+msgstr "Child Menü einklappen"
+
+#. translators: 1: date
+#: ../functions.php:302
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../functions.php:306
+msgid " Edit"
+msgstr " Bearbeiten"
+
+#: ../functions.php:313
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentare befindet sich in Moderation."
+
+#: ../functions.php:317
+msgid "Reply"
+msgstr "Antworten"
+
+#: ../functions.php:328
+msgid "Pingback:"
+msgstr "Pinkback:"
+
+#: ../functions.php:346
+msgid "Widgets appear in the left-aligned sidebar on single posts."
+msgstr "Widgets erscheinen in der links-bündigen Sidebar auf Einzelartikeln."
+
+#: ../functions.php:354
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: ../functions.php:356
+msgid "Widgets appear in first column of the Footer widget area."
+msgstr "Widgets erscheinen in der ersten Spalte des Footer Widgetbereichs."
+
+#: ../functions.php:364
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: ../functions.php:366
+msgid "Widgets appear in second column of the Footer widget area."
+msgstr "Widgets erscheinen in der zweiten Spalte des Footer Widgetbereichs."
+
+#: ../functions.php:374
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: ../functions.php:376
+msgid "Widgets appear in third column of the Footer widget area."
+msgstr "Widgets erscheinen in der dritten Spalte des Footer Widgetbereichs."
+
+#: ../header.php:36
+msgid "Back"
+msgstr "Zurück"
+
+#: ../header.php:55
+msgid "Close"
+msgstr "Schliessen"
+
+#: ../header.php:57
+msgid "Menu"
+msgstr "Menü"
+
+#: ../image.php:28 ../single.php:34
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: ../image.php:28
+msgid "comment 1"
+msgstr "Kommentar 1"
+
+#: ../image.php:28
+msgid "comments %"
+msgstr "Kommentare %"
+
+#: ../image.php:58
+msgid "Next Image"
+msgstr "Nächstes Bild"
+
+#: ../image.php:59
+msgid "Previous Image"
+msgstr "vorheriges Bild"
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: ../search.php:36 ../template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: ../search.php:40 ../template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Entschuldige, aber es konnte nichts gefunden werden."
+
+#: ../searchform.php:12
+msgid "Search"
+msgstr "Suche"
+
+#: ../searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suchen"
+
+#: ../single.php:34
+msgid "Comment 1"
+msgstr "Kommentar 1"
+
+#: ../single.php:34
+msgid "Comments %"
+msgstr "Kommentare %"
+
+#: ../single.php:40
+msgid "Category: "
+msgstr "Kategorie: "
+
+#: ../single.php:51 ../template-parts/content-page.php:28
+msgid "Pages:"
+msgstr "Seiten: "
+
+#: ../single.php:59
+msgid "Tags: "
+msgstr "Schlagwörter: "
+
+#: ../single.php:86
+msgid "Next"
+msgstr "Nächster Beitrag"
+
+#: ../single.php:87
+msgid "Next Post"
+msgstr "Nächster Beiträg"
+
+#: ../single.php:88
+msgid "Previous"
+msgstr "Vorheriger Beitrag"
+
+#: ../single.php:89
+msgid "Previous Post"
+msgstr "Vorheriger Beitrag"
+
+#: ../inc/customizer.php:17
+msgid "Site Title Color"
+msgstr "Seiten-Titelfarbe"
+
+#: ../inc/customizer.php:18
+msgid "Logo"
+msgstr "Logo"
+
+#: ../inc/customizer.php:22
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: ../inc/customizer.php:41
+msgid "Link Color"
+msgstr "Link-Farbe"
+
+#: ../inc/customizer.php:78
+msgid "Footer credit text"
+msgstr "Footer Credit-Text"
+
+#: ../inc/customizer.php:79
+msgid "Customize the footer credit text. (HTML is allowed)"
+msgstr "Footer Credit-Text anpassen. (HTML ist erlaubt.)"
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr "Fullwidth-Seite"
+
+#: ../template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bist Du bereit deinen ersten Beitrag zu veröffentlichen? Beginne hier!"
+
+#: ../template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es scheint, als kann hier nichts gefunden werden. Vielleicht hilft ein "
+"anderer Suchbegriff."
+
+#. Name of the theme
+msgid "Neubau"
+msgstr "Neubau"
+
+#. Theme URI of the theme
+msgid "http://www.elmastudio.de/en/themes/neubau/"
+msgstr "http://www.elmastudio.de/en/themes/neubau/\n"
+
+#. Author of the theme
+msgid "Elmastudio"
+msgstr "Elmastudio"
+
+#. Author URI of the theme
+msgid "http://www.elmastudio.de/en/"
+msgstr "http://www.elmastudio.de/"
